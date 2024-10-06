@@ -3,15 +3,25 @@
 
 ## Liste des pages maquettés
  acceuil.html
+ 
  actualités.html
+ 
  analytique.html
+ 
  baseannonces.html
+ 
  baseclients.html
+ 
  calendrier.html
+ 
  centre de contact.html
+ 
  chat et appel.html
+ 
  login1.html
+ 
  mes ventes.html
+ 
  mot-de-passe-oublie.html
 
 * [Frameworks](#frameworks)
@@ -70,25 +80,25 @@ CoreUI Icons are beautifully crafted symbols for common actions and items. You c
 ### Clone repo
 
 ``` bash
-# clone the repo
+# Cloner le dépôt GitHub
 $ git clone https://github.com/ronflex00/projet-responsive-web-design.git my-project
 
-# go into app's directory
-$ cd my-project
+# Accéder au répertoire du projet
+$ projet-responsive-web-design
 
-# install app's dependencies
+# Utilisez npm pour installer les packages nécessaires :
 $ npm install
 ```
 
-## Usage
+## Démarrer le projet
 
 ``` bash
-# serve with hot reload at localhost:3000.
+# Une fois les dépendances installées, démarrez le projet en utilisant :
 $ npm start
 
-# build for production with minification
-$ npm run build
-```
+#Cela lancera le serveur de développement, et vous pourrez accéder au site via http://localhost:3000 dans votre navigateur.
+
+
 
 
 
