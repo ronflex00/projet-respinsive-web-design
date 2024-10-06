@@ -24,20 +24,6 @@
  
  mot-de-passe-oublie.html
 
-* [Frameworks](#frameworks)
-* [CoreUI PRO](#coreui-pro)
-* [CoreUI PRO Bootstrap Admin Templates](#coreui-pro-bootstrap-admin-templates)
-* [Installation](#installation)
-* [Usage](#usage)
-* [What's included](#whats-included)
-* [Documentation](#documentation)
-* [Components](#components)
-* [Contributing](#contributing)
-* [Versioning](#versioning)
-* [Creators](#creators)
-* [Community](#community)
-* [Support CoreUI Development](#support-coreui-development)
-* [Copyright and license](#copyright-and-license)
 
 ## Frameworks
 
